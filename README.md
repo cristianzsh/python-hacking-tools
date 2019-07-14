@@ -8,4 +8,4 @@ Collection of hacking tools written in Python
   - netfilterqueue;
   - BeautifulSoup.
   
-Some knowledge in networking and iptables is necessary to run the scripts.
+Some knowledge in networking and iptables is necessary to run some of the scripts.
