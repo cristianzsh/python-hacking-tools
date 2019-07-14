@@ -1,2 +1,11 @@
-# python-hacking-tools
-Python tools for ethical hacking
+# Hacking tools
+
+Collection of hacking tools written in Python
+
+### Requirements:
+  - scapy;
+  - scapy_http;
+  - netfilterqueue;
+  - BeautifulSoup.
+  
+Some knowledge in networking and iptables is necessary to run the scripts.
